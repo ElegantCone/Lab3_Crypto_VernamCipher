@@ -1,0 +1,6 @@
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\bin\Debug\Lab3_Crypto_Vernam_Cipher.exe
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\bin\Debug\Lab3_Crypto_Vernam_Cipher.pdb
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\obj\Debug\Lab3_Crypto_Vernam_Cipher.csprojAssemblyReference.cache
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\obj\Debug\Lab3_Crypto_Vernam_Cipher.csproj.CoreCompileInputs.cache
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\obj\Debug\Lab3_Crypto_Vernam_Cipher.exe
+D:\Programming\RiderProjects\Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher\obj\Debug\Lab3_Crypto_Vernam_Cipher.pdb
