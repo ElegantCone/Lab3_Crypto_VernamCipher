@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_Crypto_Vernam_Cipher", "Lab3_Crypto_Vernam_Cipher\Lab3_Crypto_Vernam_Cipher.csproj", "{5216F1B6-B880-498C-8D24-2C8D0EE7380A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5216F1B6-B880-498C-8D24-2C8D0EE7380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5216F1B6-B880-498C-8D24-2C8D0EE7380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5216F1B6-B880-498C-8D24-2C8D0EE7380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5216F1B6-B880-498C-8D24-2C8D0EE7380A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
